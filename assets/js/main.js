@@ -146,7 +146,7 @@ function myMenuFunction() {
 /*-------DOWNLOAD CV-----*/
 
 function downloadCV() {
-  window.location.href = "assets/ishikaa.pdf"; // Redirect to the PDF file
+  window.location.href = "assets/ishika_CV.pdf"; // Redirect to the PDF file
 }
 
 /*-------SCROLL DOWN BUTTON-----*/
